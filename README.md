@@ -3,6 +3,13 @@
 ## Overview
 This project analyzes Blinkit grocery sales data using Python and Pandas to uncover sales trends and business insights.
 
+
+## 📊 Key Project Metrics
+* **Total Sales:** $1.2M
+* **Average Sales:** $141.0
+* **Total Items Sold:** 8,523
+
+  
 ## Tools Used
 - Python
 - Pandas
@@ -32,9 +39,11 @@ This project analyzes Blinkit grocery sales data using Python and Pandas to unco
 
 ## Key Insights
 
-- Fruits and Vegetables generated the highest sales
-- Tier 3 outlets contributed maximum revenue
-- Regular fat products performed better overall
+- **Top Categories:** Fruits & Vegetables & Snack Foods.
+- **Preferred Fat Content:** Low Fat items account for 64.6% of sales.
+- **Top Outlet Type:** Medium-sized outlets drive 42.3% of total revenue.
+- **Top Location:** Tier 3 locations outperform Tier 1 & Tier 2.
 
+  
 ## Author
 Prabha R
