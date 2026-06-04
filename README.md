@@ -21,19 +21,19 @@ This project analyzes Blinkit grocery sales data using Python and Pandas to unco
 
 ## Correlation Heatmap
 
-![Heatmap](heatmap.png)
+![Heatmap](images/heatmap.png)
 
 ---
 
 ## Total Sales by Item Type
 
-![Sales by Item Type](total_sales_by_item_type.png)
+![Sales by Item Type](images/total_sales_by_item_type.png)
 
 ---
 
 ## Outlet Establishment Analysis
 
-![Outlet Establishment](outlet_establishment.png)
+![Outlet Establishment](images/outlet_establishment.png)
 
 ---
 
